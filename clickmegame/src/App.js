@@ -78,7 +78,7 @@ class App extends Component {
         	<Wrapper>
     			<div className="hero">
     				<div className="heroText">
-    					<h1 className="banner">Winter is Comming Click Game</h1>
+    					<h1 className="banner">Winter is Coming Click Game</h1>
         				<h3 className="rules">Defeat the Whitewalkers! Choose wisely.</h3>
         				<h3 className="message">{this.state.message}</h3>
     				</div>
